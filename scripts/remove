@@ -29,6 +29,8 @@ ynh_remove_nginx_config
 
 ynh_remove_logrotate
 
+ynh_remove_nodejs
+
 #=================================================
 # END OF SCRIPT
 #=================================================
