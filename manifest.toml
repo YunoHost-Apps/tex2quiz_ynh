@@ -2,8 +2,8 @@
 
 packaging_format = 2
 
-id = "tex2quiz"
-name = "Tex2quiz"
+id = "text2quiz"
+name = "Text2quiz"
 description.en = "Automatically create a quiz from a simple text file"
 description.fr = "Créer automatiquement un quiz à partir d'un simple fichier texte"
 
