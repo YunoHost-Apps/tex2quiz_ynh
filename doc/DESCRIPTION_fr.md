@@ -1,4 +1,4 @@
-Tex2quiz est une application de quiz, construite avec Svelte Kit, qui peut créer automatiquement un quiz (complexe) à partir d'un simple texte. 13 types de questions sont disponibles (Vrai/Faux, QCM, Test de Cloze, Flashcards, Réponses courtes, Glisser-déposer, Commande…).
+Text2quiz est une application de quiz, construite avec Svelte Kit, qui peut créer automatiquement un quiz (complexe) à partir d'un simple texte. 13 types de questions sont disponibles (Vrai/Faux, QCM, Test de Cloze, Flashcards, Réponses courtes, Glisser-déposer, Commande…).
 
 Avantages :
 

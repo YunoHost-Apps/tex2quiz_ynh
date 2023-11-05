@@ -1,11 +1,12 @@
 [Unit]
-Description=Small description of the service
+Description=Text2quiz
 After=network.target
 
 [Service]
 Type=simple
 User=__APP__
 Group=__APP__
+Environment="PATH=__ENV_PATH__"
 WorkingDirectory=__INSTALL_DIR__/
 ExecStart=__YNH_NPM__ run dev -- --open --host
 
